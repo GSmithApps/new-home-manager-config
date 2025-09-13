@@ -1,6 +1,5 @@
 # The home manager config. This thing is awesome.
-# I think I should probably make it into a repo in github so I don't
-# lose it
+# It's in GitHub at https://github.com/GSmithApps/new-home-manager-config
 
 { config, pkgs, ... }:
 
